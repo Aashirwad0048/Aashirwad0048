@@ -65,4 +65,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Aashirwad0048/Aashirwad0048/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Aashirwad0048/Aashirwad0048/Create snake.yml/snake.svg" alt="Snake animation" />
