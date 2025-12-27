@@ -4,21 +4,30 @@
 
 <h3 align="center">🚀 A passionate Full-Stack developer from India</h3>
 
+<br />
+
+<img
+  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+  style=" width:100%; height:3px; object-fit:cover; display:block;"
+/>
+<br />
+<br />
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=aashirwad0048&label=Profile%20views&color=0e75b6&style=flat" alt="aashirwad0048" /> 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aashirwad0048&show_icons=true&theme=dracula" height="170" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aashirwad0048&layout=compact&theme=dracula" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aashirwad0048&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aashirwad0048&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Aashirwad0048&theme=aura" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aashirwad0048&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 <br />
 
-<img align="right" height="230" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanpxZXBwdjZpbGo3bXdpemhidzMwdjAxc29nM2p2em5xNm8xOXJxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
+<img align="right" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanpxZXBwdjZpbGo3bXdpemhidzMwdjAxc29nM2p2em5xNm8xOXJxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
 
 ### 🧑‍💻 About Me
 
