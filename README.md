@@ -3,15 +3,8 @@
 </p>
 
 <h3 align="center">🚀 A passionate Full-Stack developer from India</h3>
-
 <br />
-
-<img
-  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-  style=" width:100%; height:3px; object-fit:cover; display:block;"
-/>
-<br />
-<br />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="10" />
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=aashirwad0048&label=Profile%20views&color=0e75b6&style=flat" alt="aashirwad0048" /> 
