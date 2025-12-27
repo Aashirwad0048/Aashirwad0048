@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aashirwad0048&theme=dracula&no-bg=true&no-frame=true&margin-w=15" alt="Aashirwad0048 trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Aashirwad0048&theme=dracula&no-frame=true&margin-w=15&cache_seconds=86400" />
 </p>
 <br />
 
