@@ -1,35 +1,38 @@
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi%20👋,%20I'm%20Aashirwad&fontSize=40&fontColor=ffffff&animation=fadeIn"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi%20👋,%20I'm%20Aashirwad&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+<h3 align="center">🚀 A passionate Full-Stack developer from India</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=aashirwad0048&label=Profile%20views&color=0e75b6&style=flat" alt="aashirwad0048" /> 
 </p>
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aashirwad0048&show_icons=true&theme=dracula" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aashirwad0048&layout=compact&theme=dracula" />
-    </td>
-  </tr>
-</table>
 
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aashirwad0048&show_icons=true&theme=dracula" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aashirwad0048&layout=compact&theme=dracula" height="170" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aashirwad0048&theme=dracula&no-bg=true&no-frame=true&margin-w=15" alt="Aashirwad0048 trophies" />
+</p>
+<br />
 
+<img align="right" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanpxZXBwdjZpbGo3bXdpemhidzMwdjAxc29nM2p2em5xNm8xOXJxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanpxZXBwdjZpbGo3bXdpemhidzMwdjAxc29nM2p2em5xNm8xOXJxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
+### 🧑‍💻 About Me
 
-- 🌱 I’m currently learning **MERN stack and LLMs**  
-- 👯 I’m looking to collaborate on **Generative AI**  
-- 🤝 I’m looking for help with **Devops**  
-- 💬 Ask me about **Full Stack Web-Development**  
-- ⚡ Fun fact **I am a full-time programmer in Cpp and Python**  
+* 🌱 I’m currently learning **MERN stack and LLMs**
+
+* 👯 I’m looking to collaborate on **Generative AI**
+
+* 🤝 I’m looking for help with **Devops**
+
+* 💬 Ask me about **Full Stack Web-Development**
+
+* ⚡ Fun fact: **I am a full-time programmer in C++ and Python**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -53,7 +56,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" />
@@ -78,4 +81,6 @@
 </div>
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/Aashirwad0048/Aashirwad0048/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aashirwad0048/Aashirwad0048/output/snake.svg" alt="Snake animation" />
+</p>
